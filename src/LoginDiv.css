@@ -1,0 +1,52 @@
+#login-icon {
+    width: 21px;
+    height: 21px;
+}
+
+#login-block-icon-div {
+    width: 32px;
+    justify-content: left;
+}
+
+#login-block-form-div {
+    justify-content: center;
+    width: 100%;
+}
+
+#logout-icon {
+    width: 22px;
+    height: 22px;
+    padding: 8px;
+}
+
+#logout-block {
+    background-color: #ffeeee;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: left;
+    align-items: center;
+    padding: 4px;
+}
+
+#login-block {
+    background-color: #ddddff;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: left;
+    align-items: center;
+    padding: 16px;
+}
+
+#input-guy-label {
+    padding-left: 8px;
+}
+
+#input-guy-value {
+    margin-right: 16px;
+}
+
+#status-controls-block {
+    display: flex;
+    flex-flow: column;
+    justify-content: left;
+}
